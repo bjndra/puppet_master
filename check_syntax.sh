@@ -1,0 +1,1 @@
+/puppet_work/puppet_master/hooks/check_syntax.sh
