@@ -1,4 +1,4 @@
 
 package { 'httpd':
       service => installed;
-}
+
