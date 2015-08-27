@@ -1,4 +1,4 @@
 
-node {
-
+package { 'httpd':
+      service => installed;
 }
